@@ -16,7 +16,7 @@
         "express",
         "blog",
         "api",
-        "middleware"
+        "middleware"3
     ],
     "author": "Lambda School",
     "bugs": {
